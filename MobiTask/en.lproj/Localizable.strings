@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  MobiTask
+
+  Created by Evgenyi Tyulenev on 02.08.15.
+  Copyright (c) 2015 VoltMobi. All rights reserved.
+*/
+"currancy_fell" = "Since yesterday ruble fell by";
+"currancy_rose" = "Since yesterday ruble rose by";
+"percents"      = "percents";
+"updated_at"    = "UPDATED AT";
